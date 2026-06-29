@@ -41,7 +41,7 @@
 <div align="left">
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,mysql,azure,vercel" height="48" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,mysql,azure,vercel,html,css" height="48" alt="My Skills" />
   </a>
 </div>
 
