@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/@maxyyy_42 target="_blank">
+  <a href="https://t.me/maxyyy_42 target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
   </a>
   <a href="mailto:rubelmaksum2404@gmail.com" target="_blank">
@@ -21,22 +21,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=твій_github_username.твій_github_username&" alt="visitors"/>
-</div>
-
-###
-
 <h3 align="left">👨‍💻 Про мене</h3>
 
 ###
 
 <p align="left">
-Я Full-Stack веб-розробник, який постійно вдосконалює свої навички та створює сучасні веб-додатки. Зараз я навчаюся в <b>Костопільському фаховому будівельно-технологічному коледжі</b> та <b>IT Step Academy</b>. Окрім класичної веброзробки, активно вивчаю можливості штучного інтелекту та роботу з LLM моделями.
+Я Full-Stack веб-розробник, який постійно вдосконалює свої навички та створює сучасні веб-додатки. Зараз я навчаюся в <b>Костопільському фаховому будівельно-технологічному коледжі</b> та <b>IT Step Academy</b>. Окрім класичної веброзробки
 <br><br>
-- 🔭 Зараз я працюю над проєктами з використанням <b>C#/.NET, React, Express.js та Python</b>.<br>
-- 🌱 Розгортаю свої додатки на <b>Azure, Vercel, Railway та Koyeb</b>.<br>
-- ⚡ Цікавий факт: у вільний час я пишу музику (post-punk, darkwave) в FL Studio, захоплююсь 3D-моделюванням в Archicad та граю в sim-racing.
+- 🔭 Зараз я працюю над проєктами з використанням <b>C#/.NET, React</b>.<br>
+- 🌱 Розгортаю свої додатки на <b>Azure, Vercel</b>.<br>
 </p>
 
 ###
@@ -46,25 +39,10 @@
 ###
 
 <div align="left">
-  <!-- Тут зібрані технології: C#, .NET, React, JS, Python, PyTorch, MS SQL, Firebase, Azure, Vercel -->
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,python,pytorch,mysql,express,firebase,azure,vercel" height="48" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,js,mysql,azure,vercel" height="48" alt="My Skills" />
   </a>
 </div>
 
-###
 
-<h3 align="left">🔥 Моя статистика на GitHub:</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=твій_github_username&locale=uk&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=твій_github_username&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=uk&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=твій_github_username&locale=uk&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
