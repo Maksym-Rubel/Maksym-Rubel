@@ -11,10 +11,10 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/твій_нік_telegram" target="_blank">
+  <a href="https://t.me/@maxyyy_42 target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
   </a>
-  <a href="mailto:твоя_пошта@gmail.com" target="_blank">
+  <a href="mailto:rubelmaksum2404@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
