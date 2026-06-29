@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
+  <img height="300" width="600" src="[https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBnZm03MHpzam9mcmZhMG96MzdkamU0bGtyNmV1YWcyZXY4eHVrNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7aPhCAs5QRvMMJa/giphy.gif)" />
 </div>
 
 ###
