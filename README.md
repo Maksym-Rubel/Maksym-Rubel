@@ -21,20 +21,20 @@
 
 ###
 
-<h3 align="left">👨‍💻 Про мене</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 
 <p align="left">
-Я Full-Stack веб-розробник, який постійно вдосконалює свої навички та створює сучасні веб-додатки. Зараз я навчаюся в <b>Костопільському фаховому будівельно-технологічному коледжі</b> та <b>IT Step Academy</b>
+I am a Full-Stack web develope
 <br><br>
-- 🔭 Зараз я працюю над проєктами з використанням <b>C#/.NET, React</b>.<br>
-- 🌱 Розгортаю свої додатки на <b>Azure, Vercel</b>.<br>
+- 🔭 I am currently working on projects using <b>C#/.NET, React</b>.<br>
+- 🌱 I deploy my applications on <b>Azure, Vercel</b>.<br>
 </p>
 
 ###
 
-<h3 align="left">🛠 Технології та інструменти:</h3>
+<h3 align="left">🛠Technologies and tools:</h3>
 
 ###
 
