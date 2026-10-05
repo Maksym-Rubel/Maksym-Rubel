@@ -26,7 +26,7 @@
 ###
 
 <p align="left">
-I am a Full-Stack web develope
+I am a Full-Stack web developer
 <br><br>
 - 🔭 I am currently working on projects using <b>C#/.NET, React</b>.<br>
 - 🌱 I deploy my applications on <b>Azure, Vercel</b>.<br>
