@@ -28,11 +28,11 @@
 <p align="left">
 I am a Full-Stack web developer
 <br><br>
-- 🔭 **Current Focus:** Full-stack development with **C# / .NET** & **React / TypeScript**
-- ⚙️ **Backend:** ASP.NET Core, REST APIs, SignalR (WebSockets), EF Core, MS SQL / MySQL
-- 🎨 **Frontend:** React, TypeScript, Responsive UI/UX
-- 📱 **Mobile:** React Native, Expo
-- 🌱 **DevOps & Cloud:** Azure, Vercel, Docker basics, Git / GitHub Actions
+- 🔭 Current Focus: Full-stack development with C# / .NET & React / TypeScript
+- ⚙️ Backend: ASP.NET Core, REST APIs, SignalR (WebSockets), EF Core, MS SQL / MySQL
+- 🎨 Frontend: React, TypeScript, Responsive UI/UX
+- 📱 Mobile: React Native, Expo
+- 🌱 DevOps & Cloud: Azure, Vercel, Docker basics, Git / GitHub Actions
 </p>
 
 ###
